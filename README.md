@@ -8,7 +8,7 @@ This Dashboard provides a valuable insight into the Technology sector. It helps 
 
 This Dashboard provides a valuable insight into the Technology sector. The visual representation of the average salary one can expect in the sector gives a new graduate student entering the field a better perspective on what to expect when considering data science or data Analysis as a job field. We also look at the number of people who took the survey as well as how many people who actually made the swicth to the technology sector. 
 
-The people (94 individuals)  with the highest average salary were Data Scientist, making about 
+The people with the highest average salary were Data Scientist, making about $94,000/
 
 Also, the most common programming language that was used was Python (497 users).
 
@@ -47,7 +47,7 @@ Following inferences can be drawn from the dashboard;
 
  ### [3] Who makes the most salary in the technology sector?
 
-    Data Scientists make the most = 
+    Data Scientists make the most = $94,000.
  
  ### [4] Are people happy making the switch to the field?
 
@@ -62,7 +62,7 @@ Following inferences can be drawn from the dashboard;
     Out of the 630, 59% people made the switch to the tech sector.
 
 ### [7] 6) Looking at average salary by the different ages.
-     People ranging from 55 to 60 made the most. 
+     People ranging from 55 to 58 made the most. 
 
 
 
